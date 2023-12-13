@@ -1,6 +1,6 @@
 ### Welcome, everyone!
 
-👋 G'day! I'm Juliana Nunes and this is my GitHub profile
+- 👋 G'day! I'm Juliana Nunes and this is my GitHub profile
 
 <!--
 **juliananunespe/juliananunespe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
