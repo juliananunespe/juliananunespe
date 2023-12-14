@@ -1,4 +1,4 @@
-### Welcome, everyone!
+## Welcome, everyone!
 
 - 👋 G'day! I'm Juliana Nunes, but you can call me Ju.
 - 🩺 I'm a nurse studying masters on Computer Science at UFPE.
@@ -8,8 +8,10 @@
 - ⚡ Fun fact: I'm a MPB singer
 
 
-## Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+          
           
 <!--
 **juliananunespe/juliananunespe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
