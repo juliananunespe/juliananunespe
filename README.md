@@ -1,6 +1,6 @@
 ## Welcome, everyone!
 
-- 👋 G'day! I'm Juliana Nunes, but you can call me Ju.
+- 👋 G'day! I'm Juliana Nunes and this is my GitHub profile.
 - 🩺 I'm a nurse studying masters on Computer Science at UFPE.
 - 💻 Currently studyind Analysis and System Development and transitioning careers towards coding.
 - 😄 Pronouns: she/her
