@@ -5,7 +5,7 @@
 - 💻 Currently studyind Analysis and System Development and transitioning careers towards coding.
 - 😄 Pronouns: she/her
 - ❤️ I'm passionate about watercolour, cats and coffee.
-- ⚡ Fun fact: I'm a MPB singer
+- 🎤 Fun fact: I'm a MPB singer.
 
 
 ### Languages and tools
